@@ -1,7 +1,7 @@
 ﻿# Art Authentication: A Comparative Analysis of Convolutional Neural Network (CNN) Architectures for Detecting AI-Generated and Human-made Digital Artworks (Thesis)
 
-### Prototype linke 
-Try it out [here](https://github.com/Hchama/ThesisPrototype).
+### Prototype link
+A prototype of the study, Try it out [here](https://github.com/Hchama/ThesisPrototype).
 
 ### Dataset
 sample batch of the dataset
